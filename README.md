@@ -1,2 +1,2 @@
-# JoshAtticus Blog
-Official JoshAtticus blog
+# OSMANiC Team Blog
+Official OSMANiC Team blog
