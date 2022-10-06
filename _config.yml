@@ -7,3 +7,5 @@ github_username:  OSMANiCTeam # DO NOT include the @ character, or else the buil
 
 show_excerpts: false # set to false to remove excerpts on the homepage
 theme: minima
+plugins:
+  - jekyll-feed
