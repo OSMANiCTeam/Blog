@@ -1,5 +1,5 @@
 ---
-title: "JoshAtticus Blog"
+title: "OSMANiC Blog"
 ---
 
-Hello! this is my official blog!
+This is the official OSMANiC Blog.
